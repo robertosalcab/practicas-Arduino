@@ -1,4 +1,4 @@
-<h1> Practicas Arduino </h1>
+<h1> Prácticas Arduino </h1>
 
 Prácticas de Arduino utilizando Thinkercad y Arduinoblocks. 
 
