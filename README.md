@@ -1,6 +1,6 @@
 <h1> Prácticas de Arduino </h1>
 
-Prácticas de Arduino utilizando Thinkercad y Arduinoblocks. 
+Prácticas de Arduino utilizando Tinkercad y Arduinoblocks. 
 
 Las prácticas son:
 <ul type=”A”>
