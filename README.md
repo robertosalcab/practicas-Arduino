@@ -16,7 +16,7 @@ Las prácticas son:
 <li> Práctica 4.1 - Potenciómetro </li>
 <li> Práctica 4.2 – Potenciómetro y LED </li>
 <li> Práctica 5.1 - Servomotor </li>
-<li> Práctica 6.1 - Joystick /li> 
+<li> Práctica 6.1 - Joystick </li> 
 <li> Práctica 7.1 – Sensor de temperatura </li>
 <li> Práctica 8.1 - LED RGB </li>
 <li> Práctica 9.1 – Sensor de luz (LDR) </li>
